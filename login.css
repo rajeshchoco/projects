@@ -1,0 +1,72 @@
+body{
+	background-color: #dfe3ee;
+}
+.fb{
+	margin-top: 32vh;
+	color: rgb(43, 119, 242);
+}
+.sentance{
+	padding-top: 8px;
+}
+.text{
+	padding-top: vh;
+
+}
+.in{
+	width: 60vh;
+	padding: 2vh 2vh 2vh 2vh;
+}
+.fbpass{
+	padding-top: 2vh;
+}
+.pass{
+	width: 60vh;
+	padding: 2vh 2vh 2vh 2vh;
+}
+.btn{
+	color: #fff;
+
+}
+.but{
+	width: 60vh;
+	padding: 1.5vh 1.5vh;
+
+}
+.button{
+	padding-top: 2vh;
+}
+.forgot{
+	padding-left: 19vh;
+	padding-top: 2vh;
+	text-decoration: none;
+}
+.line{
+	width: 60vh;
+}
+.create{
+	padding-left: 14.5vh;
+}
+.pad{
+	padding: 1vh 2vh 1vh 2vh;
+	background-color:  28A745;
+}
+.pl{
+    margin-left: 13vh;
+    border: solid 1px gray;
+    background-color: white;
+    margin-top: 15vh;
+    box-shadow: rgb(103, 103, 103) 2px 5px 5px;
+    border-radius: 10px; 
+    margin-right: 1vh;
+}
+.psl{
+	margin-left: 22vh;
+	margin-top: 8vh;
+
+}
+.aline{
+	padding: 4vh 0vh 4vh 4.4vh;
+}
+.ban{
+	padding-left: vh;
+}
